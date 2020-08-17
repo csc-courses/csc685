@@ -1,8 +1,11 @@
 ### CSC 685/595: Quantum Cryptography for Beginners
 
 _by: burt rosenberg_
+
 _at: university of miami_
+
 _semester: fall 2020–2021 (211)_
+
 _location: on-line by demand; possibly also at the Ungar building._ 
 
 This will be a monday-only workshop on the wonderful new world of Quantum Cryptography. 
