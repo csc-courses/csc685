@@ -5,9 +5,9 @@
 * _semester: fall 2020–2021 (211)_
 * _location: on-line_ 
 
-This will be a monday-only workshop on the wonderful new world of Quantum Cryptography. 
-
 #### Introduction to Quantum Cryptography
+
+This will be a monday-only workshop on the wonderful new world of Quantum Cryptography. 
 
 Cryptography is mainly about keeping and sending secrets. Beginning in the 1970's, techniques evolved to meet the needs of the continual migration of information and services on-line to secure the cyber analog of many human ceremonies. For instance, the signing of a document; or the arrival at an agreement, retaining all the necessary complexities of face to face negotiation. This change of focus could be attributed to the New Directions paper of Whitfield Diffie and Martin Hellman.
 
