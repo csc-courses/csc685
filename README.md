@@ -7,7 +7,7 @@ semester: fall 2022–2023 (231)
 location: Ungar 330G
 </pre>
 
-#### Introduction to Quantum Cryptography
+### Introduction to Quantum Cryptography
 
 This will be a monday-only workshop on the wonderful new world of Quantum Cryptography. 
 
@@ -18,3 +18,7 @@ A substantial challenge to the field of cryptography is the quickly advancing te
 This course will introduce you to quantum computing, with only a requirement of probability and linear algebra, or the interest to learn basic probability and linear algebra, to go over the classical curriculum of information theory and cryptography, as it pertains to the course; and to introduce the quantum world of cryptography. You will perform experiments on quantum computers. 
 
 The 221 edition of the course is found under the edition-221 folder. 
+
+### Assignments
+
+- [https://www.cs.miami.edu/home/burt/learning/csc595.231/proj1.html](Exercise 1)
