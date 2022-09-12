@@ -1,9 +1,11 @@
 ### CSC 685/595: Quantum Cryptography for Beginners
 
-* _by: burt rosenberg_
-* _at: university of miami_
-* _semester: fall 2022–2023 (231)_
-* _location: Ungar 330G_ 
+<pre>
+by: burt rosenberg
+at: university of miami
+semester: fall 2022–2023 (231)
+location: Ungar 330G
+</pre>
 
 #### Introduction to Quantum Cryptography
 
