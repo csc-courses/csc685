@@ -11,7 +11,7 @@ location: Ungar 330G
 
 This will be a monday-only workshop on the wonderful new world of Quantum Cryptography. 
 
-Cryptography is mainly about keeping and sending secrets. Beginning in the 1970's, techniques evolved to meet the needs of the continual migration of information and services on-line to secure the cyber analog of many human ceremonies. For instance, the signing of a document; or the arrival at an agreement, retaining all the necessary complexities of face to face negotiation. This change of focus could be attributed to the New Directions paper of Whitfield Diffie and Martin Hellman.
+Cryptography is mainly about keeping and sending secrets. Beginning in the 1970's, cryptographic techniques were created to migrate into the cyber-realm those human ceremonies that demand trust or confidentiality . For instance, the signing of a document, or the arrival at an agreement, retaining all the necessary complexities of face to face negotiation. This change of focus could be milestoned by the [New Directions](https://ee.stanford.edu/~hellman/publications/24.pdf) paper of Whitfield Diffie and Martin Hellman.
 
 A substantial challenge to the field of cryptography is the quickly advancing technology of quantum computing. With quantum computing, scientists and technologist harness the weird physics of the quantum world to go beyond the current capabilities of classical computers. These machine pose theoretical challenges to the theories that support cryptography, and also enable devastating attacks against our current crypto-capabilities.
 
