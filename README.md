@@ -21,4 +21,4 @@ The 221 edition of the course is found under the edition-221 folder.
 
 ### Assignments
 
-- [https://www.cs.miami.edu/home/burt/learning/csc595.231/proj1.html](Exercise 1)
+- [Exercise 1](https://www.cs.miami.edu/home/burt/learning/csc595.231/proj1.html)
