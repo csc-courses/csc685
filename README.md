@@ -5,11 +5,12 @@ by: burt rosenberg
 at: university of miami
 semester: fall 2022–2023 (231)
 location: Ungar 330G
+website: https://www.cs.miami.edu/home/burt/learning/csc595.231/
 </pre>
 
 ### Introduction to Quantum Cryptography
 
-This will be a monday-only workshop on the wonderful new world of Quantum Cryptography. 
+This will be a [Monday-only workshop](https://www.cs.miami.edu/home/burt/learning/csc595.231/) on the wonderful new world of Quantum Cryptography. 
 
 Cryptography is mainly about keeping and sending secrets. Beginning in the 1970's, cryptographic techniques were created to migrate into the cyber-realm those human ceremonies that demand trust or confidentiality . For instance, the signing of a document, or the arrival at an agreement, retaining all the necessary complexities of face to face negotiation. This change of focus could be milestoned by the [New Directions](https://ee.stanford.edu/~hellman/publications/24.pdf) paper of Whitfield Diffie and Martin Hellman.
 
