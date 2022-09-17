@@ -23,5 +23,5 @@ The 221 edition of the course is found under the edition-221 folder.
 ### Assignments
 
 - [Exercise 1](https://www.cs.miami.edu/home/burt/learning/csc595.231/proj1.html): Circuit computation model: classical and quantum
-- [Getting Started with Qiskit](https://github.com/csc-courses/csc685/blob/master/exercises/getting-started.ipynb)
+- [Getting Started](https://github.com/csc-courses/csc685/blob/master/exercises/getting-started.ipynb) with qiskit.
 
