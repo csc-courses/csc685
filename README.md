@@ -24,5 +24,5 @@ The 221 edition of the course is found under the edition-221 folder.
 
 - [Exercise 1](https://www.cs.miami.edu/home/burt/learning/csc595.231/proj1.html): Circuit computation model: classical and quantum
 - [Getting Started](https://github.com/csc-courses/csc685/blob/master/exercises/getting-started.ipynb) with qiskit.
-- [Exercise 2: Projective Measurements](https://github.com/csc-courses/csc685/blob/master/exercises/observables.ipynb)
-- [Exercise 3: Experiment with measurements](https://github.com/csc-courses/csc685/blob/master/exercises/observables-experiments.ipynb)
+- [Exercise 2:](https://github.com/csc-courses/csc685/blob/master/exercises/observables.ipynb) Projective Measurements
+- [Exercise 3:](https://github.com/csc-courses/csc685/blob/master/exercises/observables-experiments.ipynb) Experiment with measurements
