@@ -15,7 +15,7 @@ website: https://www.cs.miami.edu/home/burt/learning/csc595.231/
 - [Getting Started](https://github.com/csc-courses/csc685/blob/master/exercises/getting-started.ipynb) with qiskit.
 - [Exercise 2:](https://github.com/csc-courses/csc685/blob/master/exercises/observables.ipynb) Projective Measurements
 - [Exercise 3:](https://github.com/csc-courses/csc685/blob/master/exercises/observables-experiments.ipynb) Experiment with measurements
-- [Exercise 4:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-2022.ipynb) Experiment with measurements
+- [Exercise 4:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-2022.ipynb) CHSH Game
 - - [CHSH illustrated](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-game.pdf)
 
 ### Introduction to Quantum Cryptography
