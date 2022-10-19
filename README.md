@@ -8,6 +8,16 @@ location: Ungar 330G
 website: https://www.cs.miami.edu/home/burt/learning/csc595.231/
 </pre>
 
+
+### Assignments
+
+- [Exercise 1](https://www.cs.miami.edu/home/burt/learning/csc595.231/proj1.html): Circuit computation model: classical and quantum
+- [Getting Started](https://github.com/csc-courses/csc685/blob/master/exercises/getting-started.ipynb) with qiskit.
+- [Exercise 2:](https://github.com/csc-courses/csc685/blob/master/exercises/observables.ipynb) Projective Measurements
+- [Exercise 3:](https://github.com/csc-courses/csc685/blob/master/exercises/observables-experiments.ipynb) Experiment with measurements
+- [Exercise 4:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-2022.ipynb) Experiment with measurements
+- [Exercise 4:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-game.pdf) CSHS Bloch sphere illustration
+
 ### Introduction to Quantum Cryptography
 
 This will be a [Monday-only workshop](https://www.cs.miami.edu/home/burt/learning/csc595.231/) on the wonderful new world of Quantum Cryptography. 
@@ -19,10 +29,3 @@ A substantial challenge to the field of cryptography is the quickly advancing te
 This course will introduce you to quantum computing, with only a requirement of probability and linear algebra, or the interest to learn basic probability and linear algebra, to go over the classical curriculum of information theory and cryptography, as it pertains to the course; and to introduce the quantum world of cryptography. You will perform experiments on quantum computers. 
 
 The 221 edition of the course is found under the edition-221 folder. 
-
-### Assignments
-
-- [Exercise 1](https://www.cs.miami.edu/home/burt/learning/csc595.231/proj1.html): Circuit computation model: classical and quantum
-- [Getting Started](https://github.com/csc-courses/csc685/blob/master/exercises/getting-started.ipynb) with qiskit.
-- [Exercise 2:](https://github.com/csc-courses/csc685/blob/master/exercises/observables.ipynb) Projective Measurements
-- [Exercise 3:](https://github.com/csc-courses/csc685/blob/master/exercises/observables-experiments.ipynb) Experiment with measurements
