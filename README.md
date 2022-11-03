@@ -16,7 +16,8 @@ website: https://www.cs.miami.edu/home/burt/learning/csc595.231/
 - [Exercise 2:](https://github.com/csc-courses/csc685/blob/master/exercises/observables.ipynb) Projective Measurements
 - [Exercise 3:](https://github.com/csc-courses/csc685/blob/master/exercises/observables-experiments.ipynb) Experiment with measurements
 - [Exercise 4:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-2022.ipynb) CHSH Game
-- - [CHSH illustrated](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-game.pdf)
+- [Image:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-game.pdf) Measure basises
+- [Notebook:](https://github.com/csc-courses/csc685/blob/master/exercises/deterministic-chsh-games.ipynb) Classically played CHSH Game
 
 ### Introduction to Quantum Cryptography
 
