@@ -18,6 +18,7 @@ website: https://www.cs.miami.edu/home/burt/learning/csc595.231/
 - [Exercise 4:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-2022.ipynb) CHSH Game
 - [Image:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-game.pdf) Measure basises
 - [Notebook:](https://github.com/csc-courses/csc685/blob/master/exercises/deterministic-chsh-games.ipynb) Classically played CHSH Game
+- [Exercise 5:](https://github.com/csc-courses/csc685/blob/master/exercises/grover-geometry.ipynb) Grover: A geometric appraoch
 
 ### Introduction to Quantum Cryptography
 
