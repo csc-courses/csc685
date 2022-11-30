@@ -19,6 +19,7 @@ website: https://www.cs.miami.edu/home/burt/learning/csc595.231/
 - [Image:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-game.pdf) Measure basises
 - [Notebook:](https://github.com/csc-courses/csc685/blob/master/exercises/deterministic-chsh-games.ipynb) Classically played CHSH Game
 - [Exercise 5:](https://github.com/csc-courses/csc685/blob/master/exercises/grover-geometry.ipynb) Grover: A geometric approach
+- [Exercise 6:](https://github.com/csc-courses/csc685/blob/master/exercises/grover_walsh_hadamard.ipynb) Grover: Walsh-Hadamard transforms
 
 ### Introduction to Quantum Cryptography
 
