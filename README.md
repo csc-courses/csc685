@@ -16,7 +16,7 @@ website: https://www.cs.miami.edu/home/burt/learning/csc595.231/
 - [Exercise 2:](https://github.com/csc-courses/csc685/blob/master/exercises/observables.ipynb) Projective Measurements
 - [Exercise 3:](https://github.com/csc-courses/csc685/blob/master/exercises/observables-experiments.ipynb) Experiment with measurements
 - [Exercise 4:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-2022.ipynb) CHSH Game
-- [Image:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-game.pdf) Measure basises
+- [Image:](https://github.com/csc-courses/csc685/blob/master/exercises/chsh-game.pdf) Measure bases
 - [Notebook:](https://github.com/csc-courses/csc685/blob/master/exercises/deterministic-chsh-games.ipynb) Classically played CHSH Game
 - [Exercise 5:](https://github.com/csc-courses/csc685/blob/master/exercises/grover-geometry.ipynb) Grover: A geometric approach
 - [Exercise 6:](https://github.com/csc-courses/csc685/blob/master/exercises/grover_walsh_hadamard.ipynb) Grover: Walsh-Hadamard transforms
