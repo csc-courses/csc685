@@ -20,7 +20,7 @@ website: https://www.cs.miami.edu/home/burt/learning/csc595.231/
 - [Notebook:](https://github.com/csc-courses/csc685/blob/master/exercises/deterministic-chsh-games.ipynb) Classically played CHSH Game
 - [Exercise 5:](https://github.com/csc-courses/csc685/blob/master/exercises/grover-geometry.ipynb) Grover: A geometric approach
 - [Exercise 6:](https://github.com/csc-courses/csc685/blob/master/exercises/grover_walsh_hadamard.ipynb) Grover: Walsh-Hadamard transforms
-- [Projects:](https://github.com/csc-courses/csc685/blob/master/exercises/concluding-remarks.ipynb)
+- [Projects:](https://github.com/csc-courses/csc685/blob/master/exercises/concluding-remarks.ipynb) Superlumial communication and 3 SAT solutions.
 
 ### Introduction to Quantum Cryptography
 
