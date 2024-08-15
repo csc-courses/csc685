@@ -8,6 +8,13 @@ location: Ungar 330G
 website: https://www.cs.miami.edu/home/burt/learning/csc595.231/
 </pre>
 
+### Assignments
+
+- [Getting Started](https://github.com/csc-courses/csc685/blob/master/edition-251/getting-started.ipynb) with qiskit.
+
+---
+## Edition 231
+
 
 ### Assignments
 
